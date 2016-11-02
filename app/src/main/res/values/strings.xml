@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Functions</string>
+
+    <string name="open_select_picture_activity">打开选择图片Activity</string>
+
+
+
+    <string name="select_picture">选择图片</string>
+    <string name="no_card">没有存储卡</string>
+</resources>
