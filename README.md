@@ -5,4 +5,4 @@
 
 以下是截图：
 
-![Mou icon](https://github.com/AxunA/Functions/blob/master/screenshots/screenshots.png?raw=true)
+![Mou icon](https://github.com/AxunA/Functions/blob/master/screenshot/screenshot.png?raw=true)
